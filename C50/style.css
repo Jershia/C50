@@ -1,0 +1,31 @@
+h1{
+    border: 5px dotted forestgreen;
+}
+
+/**{
+    border: 1px solid black;
+}*/
+
+/*div{
+    border:5px solid purple
+}*/
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+ }
+
+.grid{
+    border:5px solid peachpuff;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-self: flex-end;
+    justify-content: space-evenly;
+}
+
